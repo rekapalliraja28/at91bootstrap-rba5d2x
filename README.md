@@ -120,7 +120,7 @@ Example: <i>sam9x60ekdf_qspi_linux_image_dt_defconfig</i> has
 
 ## 3.1 Compile SDCardBoot
 
-    $ git clone https://github.com/SarangamManindra/at91bootstrap-rba5d2x_4.0.9.git
+    $ git clone https://github.com/rekapalliraja28/at91bootstrap-rba5d2x.git
     $ cd at91bootstrap-rba5d2x
     $ git checkout origin/at91bootstrap-rba5d2x_v4.0.7
     $ make mrproper
@@ -132,7 +132,7 @@ build/binaries/
 
 ##3.2 Compile NOR flash boot
 
-    $ git clone https://github.com/SarangamManindra/at91bootstrap-rba5d2x_4.0.9.git
+    $ git clone https://github.com/rekapalliraja28/at91bootstrap-rba5d2x.git
     $ cd at91bootstrap-rba5d2x
     $ git checkout origin/at91bootstrap-rba5d2x_v3.8.12
     $ make mrproper
